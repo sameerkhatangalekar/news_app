@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "406702188992",
+    "project_id": "news-74624",
+    "storage_bucket": "news-74624.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:406702188992:android:c15927d8034598094a4025",
+        "android_client_info": {
+          "package_name": "com.sameer.news_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClI2bAMaFYekI0RSdb_BcKtYoO3bcL3LE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

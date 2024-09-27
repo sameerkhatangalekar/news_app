@@ -1,0 +1,1 @@
+const newsApiKey = '4bdf3c2b8e0f4f8db28a5b1b9cac89b5';
